@@ -1,8 +1,11 @@
+import unittest
+import utils
+
 class test_utils(unittest.TestCase):
     def test_reversed(self):
-        c = utils()
+        c = utils.utils()
         self.assertEqual(c.reversed(52),25)
     def test_formatter(self):
-        c = utils()
+        c = utils.utils()
         self.assertEqual(c.formatter(10),('0b1010', '0o12'))
 unittest.main()
