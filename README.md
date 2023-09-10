@@ -10,7 +10,7 @@ Part 3, merge conflict push:
 ![image](https://github.com/mvernooy3687/ECE444-F2023-Assignment1/assets/71790275/31691b0d-12b0-4960-864c-188d1eea6bb2)
 
 Part 4, Unit testing:
-![image](https://github.com/mvernooy3687/ECE444-F2023-Assignment1/assets/71790275/d17cb2ca-5d51-4cc5-9f31-f2ef771eed2a)
+![image](https://github.com/mvernooy3687/ECE444-F2023-Assignment1/assets/71790275/287642f6-fc18-4b98-9fcf-0dd11b05a740)
 
 Part 5, rebasing:
 ![image](https://github.com/mvernooy3687/ECE444-F2023-Assignment1/assets/71790275/686bebfc-e81e-4e56-81bd-fb3f29409427)
