@@ -10,3 +10,5 @@ Matthew Vernooy
 
 ![image](https://github.com/mvernooy3687/ECE444-F2023-Assignment1/assets/71790275/686bebfc-e81e-4e56-81bd-fb3f29409427)
 
+![image](https://github.com/mvernooy3687/ECE444-F2023-Assignment1/assets/71790275/a655e2ce-2ca5-41f9-8443-26bbf3c7bc46)
+
